@@ -19,6 +19,7 @@
 
 #include "camera_pins.h"
 
+//for access point station
 const char* ssid = "*********";
 const char* password = "*********";
 
